@@ -1,3 +1,5 @@
-# Metodos Avanzados Análisis de Datos
+# MÉTODOS AVANZADOS DE ANÁLISIS DE DATOS
+UNIVERSIDAD DE LOS ANDES
 Creado por Alexander Zapata Galindo
 
+TAREAS
