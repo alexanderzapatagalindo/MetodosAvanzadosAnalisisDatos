@@ -1,5 +1,5 @@
 # MÉTODOS AVANZADOS DE ANÁLISIS DE DATOS
-*Repositorio creado por Alexander Zapata Galindo para propósitos académicos*
+*Repositorio creado para propósitos académicos por:* Alexander Zapata Galindo 
 
 - email: <a.zapata12@uniandes.edu.co>
 - github: [alexanderzapatagalindo](http://github.com/alexanderzapatagalindo)
