@@ -1,5 +1,6 @@
 # MÉTODOS AVANZADOS DE ANÁLISIS DE DATOS
 *Repositorio creado por Alexander Zapata Galindo para propósitos académicos*
+
 github: [alexanderzapatagalindo](http://github.com/alexanderzapatagalindo)
 
 ### Contenido
