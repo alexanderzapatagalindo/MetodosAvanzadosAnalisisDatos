@@ -2,7 +2,7 @@
 *Repositorio creado por Alexander Zapata Galindo para propósitos académicos*
 
 - email: <a.zapata12@uniandes.edu.co>
-- github:[alexanderzapatagalindo](http://github.com/alexanderzapatagalindo)
+- github: [alexanderzapatagalindo](http://github.com/alexanderzapatagalindo)
 
 ### Contenido
 | Actividad | Fecha de entrega | Link |
