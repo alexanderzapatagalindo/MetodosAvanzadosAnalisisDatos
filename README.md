@@ -12,4 +12,4 @@
 | Tarea E6 | 12-jul-21 |<ul><li>[E6 - Árboles de Decisión](https://github.com/alexanderzapatagalindo/MetodosAvanzadosAnalisisDatos/blob/main/Tarea%20E6.docx) </li> </ul> | 
 | Tarea E8 | 12-jul-21 |<ul><li>[E8 - Ensamble](https://github.com/alexanderzapatagalindo/MetodosAvanzadosAnalisisDatos/blob/main/Tarea%20E8.docx) </li> </ul> | 
 | Tarea E10 | 19-jul-21 |<ul><li>[E10 - Microservicios](https://github.com/alexanderzapatagalindo/MetodosAvanzadosAnalisisDatos/blob/main/Tarea%20E10.docx) </li> </ul> | 
-
+| Tarea E12 | 21-jul-21 |<ul><li>[E10 - PLN](https://github.com/alexanderzapatagalindo/MetodosAvanzadosAnalisisDatos/blob/main/Tarea%20E12.docx) </li> </ul> | 
